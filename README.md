@@ -42,7 +42,7 @@ To set up and run the Flask application, run:
 
 ```console
 $ pipenv install && pipenv shell
-$ python server/app.py
+$ python3 server/app.py
 ```
 
 Then, in the browser, make a request to `http://localhost:5555/sessions/hello`.
